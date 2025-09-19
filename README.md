@@ -2,7 +2,7 @@
 # 🌍 Live Search RAG AI Agent – TechXpo 2025 🚀
 
 ### Hybrid AI Agent with Real-Time Web Search + Custom Knowledge Base  
-**Presented by:** Anurag Kumar | Lovely Professional University  
+**Presented by:** Anurag Kumar And Tripti Mishra | Lovely Professional University  
 
 ![Banner](public/  <img width="1536" height="1043" alt="P1" src="https://github.com/user-attachments/assets/d7d5b776-dd07-4bc7-9c49-efe6b48edb46" /> <img width="1682" height="991" alt="P2" src="https://github.com/user-attachments/assets/d386f00b-fcdf-45be-aecd-ec4a49ccd6eb" />  <img width="1703" height="1031" alt="P3" src="https://github.com/user-attachments/assets/3a441386-daef-4e3e-8364-b1aa2ed8f154" /> <img width="1692" height="1030" alt="P4" src="https://github.com/user-attachments/assets/8d88ac37-6647-4250-b289-df8a07e6509e" />  <img width="2168" height="1423" alt="P5" src="https://github.com/user-attachments/assets/2ddd05dc-deb2-4523-a9bd-3219b99f5635" />
 )  
