@@ -54,7 +54,10 @@ User Input → AI Agent → Tool Selection
 - If Live Info Needed → Web Search API → Answer  
 - Agent decides dynamically using LangChain Tool Routing  
 - Output displayed in Next.js frontend with rich UI. 
-![alt text](flowchart.png)
+![alt text](flowchart.png) 
+<img width="963" height="514" alt="flowchart" src="https://github.com/user-attachments/assets/4dd78ab9-020e-4e0b-9c3c-62629f358aa4" />
+
+
 
 ## ✨ Features & Demo Highlights  
 - 📑 Upload PDF/Docs → Query instantly  
