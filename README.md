@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Live Search RAG AI Agent – TechXpo 2025 🚀
 
 ### Hybrid AI Agent with Real-Time Web Search + Custom Knowledge Base  
@@ -88,3 +89,6 @@ User Input → AI Agent → Tool Selection
 - Collaboration with Indian EdTech/News Platforms.
 - Final Note:
 - “This is not just a chatbot—it’s India’s first Hybrid RAG AI Agent built for the future of information access.”
+=======
+# live-search-rag-ai-agent-techxpo-2025
+>>>>>>> a1e9783e68bfa56f20be96c680df8ea4ae7513b4
